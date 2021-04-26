@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd5980a707bb2c44888e74f7ef72ad74, type: 3}
+  m_Name: MusicScoreJustPlay
+  m_EditorClassIdentifier: 
+  musicMaterial: {fileID: 11400000, guid: a996643ff7084e6468a2c7a95cf75799, type: 2}
+  BellsLayout: {fileID: 4900000, guid: bbeedee4e7b24c346bc736ef099043b2, type: 3}
+  gameSpaceWidth: 20
+  VerticalSpace: 1
+  BellPrefab: {fileID: 3781492725728406658, guid: 199a4929e5eb7f847a463d8713e71f97, type: 3}
+  BarPrefab: {fileID: 0}
+  RockPrefab: {fileID: 2854684399674337462, guid: 8d1e8c6290c6aad488e41de21bd546d3, type: 3}
+  melodyTrackName: melody
+  bassTrackName: bass
+  audioClips:
+  - {fileID: 8300000, guid: 0cfd1221ae63ba44698cc719d462c9af, type: 3}
+  - {fileID: 8300000, guid: 3f7a976752fdb004c9027ca16563a779, type: 3}
+  audioClipNames:
+  - melody
+  - bass

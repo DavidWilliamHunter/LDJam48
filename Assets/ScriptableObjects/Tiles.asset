@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3d26700416a9ad458d96dfad4c15c3b, type: 3}
+  m_Name: Tiles
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 9155240111505384671, guid: e3f25f8743930d042ae6d6501b770f31, type: 3}
+  - {fileID: 4710194460445104000, guid: b525b1153c550fc419cdf11fc061b3a1, type: 3}
+  - {fileID: 4933512016430521661, guid: 9b29e4ddc6c890547b7a23cff954fa68, type: 3}
+  - {fileID: 7301564061504082473, guid: 9fdd6f5f773839b4dae4477866121778, type: 3}
+  - {fileID: 7173436743777926785, guid: fc6266cc6d37a184d90d6302ac04497b, type: 3}
+  sprites:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 4e8c3d52d00a0164482f7af401ec7a19, type: 3}
+  - {fileID: 21300000, guid: c68c401edf38b1d468ea8c838bb3c924, type: 3}
+  - {fileID: 21300000, guid: 76e115fc261f0344c971664d666b23a8, type: 3}
+  names:
+  - nonne
+  - none
+  - none
+  - Bumper
+  - Circle
